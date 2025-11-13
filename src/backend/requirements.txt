@@ -1,1 +1,3 @@
-
+fastapi
+uvicorn
+# Add ML/AI packages here if needed (e.g., torch, tensorflow, transformers)
